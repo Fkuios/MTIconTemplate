@@ -1,0 +1,12 @@
+{
+	CFBundleIdentifier = "bundle.id.${PRODUCT_NAME:rfc1034identifier}";
+	CFBundleExecutable = "${EXECUTABLE_NAME}";
+	CFBundleName = "${PRODUCT_NAME}";
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundlePackageType = BNDL;
+	CFBundleSignature = "????";
+	CFBundleVersion = 1;
+	"CFBundleShortVersionString" = "1.0";
+	NSPrincipalClass = "___PROJECTNAMEASIDENTIFIER___";
+	CFBundleDisplayName = "___PROJECTNAME___";
+}
